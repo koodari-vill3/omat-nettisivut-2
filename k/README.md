@@ -1,1 +1,0 @@
-# omat-nettisivut.
