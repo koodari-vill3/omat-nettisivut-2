@@ -1,19 +1,45 @@
 body {
-  background-image: url(https://public.keskofiles.com/f/k-ruoka/product/6410405072863);
-}
- 
-header {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 35px;
+  background-image: url(https://wallpaperset.com/w/full/6/9/9/53291.jpg);
+  
 }
 
-footer {
+h1 {
   font-family: monospace;
-  font-size: 25px;
-  text
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  
+}
+
+h2 {
+  font-family: monospace;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 35px;
+  color: white;
 }
 
 p {
+  text-align: center;
   font-family: monospace;
   font-size: 25px;
+  color: rgb(255, 255, 255);
+}
+
+a {
+  font-size: 25px;
+  font-family: monospace;
+  color: rgb(0, 0, 0);
+  
+}
+
+div  {
+  background-color: rgb(250, 250, 250);
+  margin-left: -8px;
+  margin-right: -8px;
+  
 }
